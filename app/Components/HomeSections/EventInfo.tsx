@@ -7,7 +7,6 @@ import Clock from "../../Assets/Clock.png";
 import Calendar from "../../Assets/CalendarCheck.png";
 import navigation from "../../Assets/NavigationArrow.png";
 import SectionImage from '../../Assets/section-image.png'
-import { secureHeapUsed } from "crypto";
 const eventInfos = [
   {
     icon: Clock,

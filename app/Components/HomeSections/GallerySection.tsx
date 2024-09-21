@@ -18,12 +18,12 @@ export default function GallerySection() {
           Blessing and wishes✨
         </h2>
         <p className="text-basic max-w-[50rem] font-thin">
-          "Explore the highlights of our
+          {`"Explore the highlights of our
           special day in the gallery.
           We’ll be adding more photos
           after the wedding, so check
           back soon for updated
-          memories!"
+          memories!"`}
         </p>
         <span className="border-dull bg-[#393742] w-[100%] h-[1px]" />
         <ToTopButton />
